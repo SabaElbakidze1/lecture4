@@ -1,6 +1,8 @@
 li {
 	display: inline-block;
     vertical-align: middle;
+    font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    font-size: 22px;
 }
 
 
@@ -20,7 +22,7 @@ nav {
 .logo{
 	display: inline-block;
     vertical-align: middle;
-    margin: 10px;
+    margin-left: 30px;
 }
 
 .active{
@@ -41,6 +43,7 @@ nav {
 .text{
 	display: inline-block;
     vertical-align: middle;
+    margin: 10px;
 }
 
 .divdiv{
@@ -64,10 +67,12 @@ nav {
 }
 
 
-h2{
+h1{
    
-	color: grey;
-    margin: 20px; 
+	 color: black;
+     margin: 20px;
+     font-size: 20px;
+     font-family: "BPG Nino Mtavruli", sans-serif;
 }
 
 a{
@@ -107,3 +112,72 @@ a{
     vertical-align: top;
     
 }
+.p{
+    letter-spacing: 2px;
+    font-family: "BPG Ingiri Arial", sans-serif;
+    font-size: 16px;
+}
+
+
+.saba{
+	margin-right: 25px;
+}
+
+
+.saba{
+  width: 570px;
+  height: 226px;
+  border: 5px solid white;
+  margin: 0;
+  background-color: #F2F2F2;
+ display: inline-block;
+ vertical-align: middle; 
+  margin: 70px;
+}
+
+.sabaa{
+   width: 570px;
+  height: 225px;
+  background-color: #F2F2F2;
+ display: inline-block;
+ vertical-align: middle; 
+  margin: 70px;
+}
+
+p{
+	width: 335px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+.click{
+	width: 100px;
+	height: 120px;
+    display: inline-block;
+    vertical-align: top;
+ 	margin: 0 60px 0 40px;
+}
+
+.phone{
+	width: 100px;
+	height: 120px;
+	display: inline-block;
+	vertical-align: top;
+    margin: 0 60px 0 40px;
+}
+
+h4{
+	margin: 20px;
+	color: royalblue;
+}
+
+h3{
+	margin-top: 80px;
+    margin-bottom: -30px;
+    margin-left: 70px;
+}
+
+.photo{
+	margin-left: 70px;
+} 
