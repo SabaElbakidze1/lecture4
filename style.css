@@ -1,0 +1,109 @@
+li {
+	display: inline-block;
+    vertical-align: middle;
+}
+
+
+nav {
+	display: inline-block;
+    vertical-align: middle;
+}
+
+
+.photo{
+  
+	  display: inline-block;
+      vertical-align: top;
+      margin: 10px;
+} 
+
+.logo{
+	display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.active{
+	color: red;
+    margin: 10px;
+}
+
+
+.contact{
+	color: blue;
+    margin: 10px;
+}
+.news{
+	color: blue;
+    margin: 10px;
+}
+
+.text{
+	display: inline-block;
+    vertical-align: middle;
+}
+
+.divdiv{
+	width: 900px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.minibox{
+	width: 56;
+    height: 56;
+    background-color:royalblue ;
+    text-align: center;
+    font-size: 43px;
+    color: white;
+    margin: 20px;
+}
+
+.may{
+	margin: 20px;
+}
+
+
+h2{
+   
+	color: grey;
+    margin: 20px; 
+}
+
+a{
+	text-decoration: none;
+
+}
+
+.fb{
+	margin: 10px;
+}
+
+.yt{
+	margin: 10px;
+}
+.the{
+   width: 1366px;
+  padding: 170px;
+  border: 5px solid blueviolet;
+  margin: 0;
+  background-color: #F2F2F2;
+ display: inline-block;
+ vertical-align: middle; 
+  margin: 70px;
+}
+
+
+.type{
+	width: px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.map{
+	width: 845px;
+    height: 464px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
