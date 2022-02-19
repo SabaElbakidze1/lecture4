@@ -3,6 +3,7 @@ li {
     vertical-align: middle;
     font-family: "BPG Nino Mtavruli Bold", sans-serif;
     font-size: 22px;
+    margin: 20px;
 }
 
 
@@ -88,10 +89,8 @@ a{
 	margin: 10px;
 }
 .the{
-   width: 1366px;
+   width: 1766px;
   padding: 170px;
-  border: 5px solid blueviolet;
-  margin: 0;
   background-color: #F2F2F2;
  display: inline-block;
  vertical-align: middle; 
@@ -144,7 +143,7 @@ a{
   margin: 70px;
 }
 
-p{
+.p2{
 	width: 335px;
     display: inline-block;
     vertical-align: middle;
@@ -181,3 +180,24 @@ h3{
 .photo{
 	margin-left: 70px;
 } 
+
+.map2{
+	width: 874px;
+	height: 466px;
+	display: inline-block;
+	vertical-align: top;
+    margin-left: 600px;
+    margin-top: -420px;
+    margin-bottom: 70px;
+}
+
+h2{
+	width: 250px;
+	height: 92px;
+	
+}
+
+.miki{
+	font-size: 25px;
+	color: blue;
+}
